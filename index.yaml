@@ -9,6 +9,6 @@ entries:
     name: myapp
     type: application
     urls:
-    - https://dilgam92.github.io/helm/myapp-0.1.0.tgz
+    - https://dilgam92.github.io/helm-repo/myapp-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-02T13:07:45.944576923Z"
